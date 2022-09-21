@@ -5,41 +5,63 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="acad0673-a199-42ba-8a79-f10a46581349" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/platzi_trips_app/assets/img/berlin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/platzi_trips_app/assets/img/berlin_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/platzi_trips_app/assets/img/berlin_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/platzi_trips_app/assets/img/berlin_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/platzi_trips_app/assets/img/berlin_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/platzi_trips_app/assets/img/profile.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/platzi_trips_app/lib/button_purple.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/platzi_trips_app/lib/card_image.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/platzi_trips_app/lib/card_image_list.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/platzi_trips_app/lib/floating_action_button_green.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/platzi_trips_app/lib/gradient_back.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/platzi_trips_app/lib/header/buttons_bar.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/platzi_trips_app/lib/header/circle_button.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/platzi_trips_app/lib/header/header_profile.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/platzi_trips_app/lib/header/profile_background.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/platzi_trips_app/lib/header/user_info.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/platzi_trips_app/lib/header_appbar.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/platzi_trips_app/lib/home_trips.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/platzi_trips_app/lib/places/info_place.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/platzi_trips_app/lib/places/place.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/platzi_trips_app/lib/places/place_info.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/platzi_trips_app/lib/places/places_list.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/platzi_trips_app/lib/platzi_trips.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/platzi_trips_app/lib/profile_trips.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/platzi_trips_app/lib/review_list.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/platzi_trips_app/lib/search_trips.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/platzi_trips_app/lib/star_rating.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platzi_trips_app/.metadata" beforeDir="false" afterPath="$PROJECT_DIR$/platzi_trips_app/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platzi_trips_app/assets/img/ann.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platzi_trips_app/assets/img/beach.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platzi_trips_app/assets/img/beach_palm.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platzi_trips_app/assets/img/girl.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platzi_trips_app/assets/img/mountain.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platzi_trips_app/assets/img/mountain_stars.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platzi_trips_app/assets/img/people.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platzi_trips_app/assets/img/river.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platzi_trips_app/assets/img/sunset.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platzi_trips_app/lib/basic_course_platzi/button_purple.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platzi_trips_app/lib/basic_course_platzi/card_image.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platzi_trips_app/lib/basic_course_platzi/card_image_list.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platzi_trips_app/lib/basic_course_platzi/description_place.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platzi_trips_app/lib/basic_course_platzi/floating_action_button_green.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platzi_trips_app/lib/basic_course_platzi/gradient_back.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platzi_trips_app/lib/basic_course_platzi/header_appbar.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platzi_trips_app/lib/basic_course_platzi/home_trips.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platzi_trips_app/lib/basic_course_platzi/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platzi_trips_app/lib/basic_course_platzi/platzi_trips.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platzi_trips_app/lib/basic_course_platzi/profile_trips.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platzi_trips_app/lib/basic_course_platzi/review.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platzi_trips_app/lib/basic_course_platzi/review_list.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platzi_trips_app/lib/basic_course_platzi/search_trips.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platzi_trips_app/lib/button_bar.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platzi_trips_app/lib/circle_button.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platzi_trips_app/lib/place.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platzi_trips_app/lib/platzi_trips_cupertino.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platzi_trips_app/lib/profile_background.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platzi_trips_app/lib/profile_header.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platzi_trips_app/lib/profile_place.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platzi_trips_app/lib/profile_place_info.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platzi_trips_app/lib/profile_places_list.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platzi_trips_app/lib/user_info.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_trips_app/lib/button_purple.dart" beforeDir="false" afterPath="$PROJECT_DIR$/platzi_trips_app/lib/button_purple.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_trips_app/lib/card_image.dart" beforeDir="false" afterPath="$PROJECT_DIR$/platzi_trips_app/lib/card_image.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_trips_app/lib/card_image_list.dart" beforeDir="false" afterPath="$PROJECT_DIR$/platzi_trips_app/lib/card_image_list.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/platzi_trips_app/lib/description_place.dart" beforeDir="false" afterPath="$PROJECT_DIR$/platzi_trips_app/lib/description_place.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_trips_app/lib/floating_action_button_green.dart" beforeDir="false" afterPath="$PROJECT_DIR$/platzi_trips_app/lib/floating_action_button_green.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_trips_app/lib/gradient_back.dart" beforeDir="false" afterPath="$PROJECT_DIR$/platzi_trips_app/lib/gradient_back.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_trips_app/lib/header/buttons_bar.dart" beforeDir="false" afterPath="$PROJECT_DIR$/platzi_trips_app/lib/basic_course_platzi/header/buttons_bar.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_trips_app/lib/header/circle_button.dart" beforeDir="false" afterPath="$PROJECT_DIR$/platzi_trips_app/lib/basic_course_platzi/header/circle_button.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_trips_app/lib/header/header_profile.dart" beforeDir="false" afterPath="$PROJECT_DIR$/platzi_trips_app/lib/basic_course_platzi/header/header_profile.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_trips_app/lib/header/profile_background.dart" beforeDir="false" afterPath="$PROJECT_DIR$/platzi_trips_app/lib/basic_course_platzi/header/profile_background.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_trips_app/lib/header/user_info.dart" beforeDir="false" afterPath="$PROJECT_DIR$/platzi_trips_app/lib/basic_course_platzi/header/user_info.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_trips_app/lib/header_appbar.dart" beforeDir="false" afterPath="$PROJECT_DIR$/platzi_trips_app/lib/header_appbar.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_trips_app/lib/home_trips.dart" beforeDir="false" afterPath="$PROJECT_DIR$/platzi_trips_app/lib/home_trips.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/platzi_trips_app/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/platzi_trips_app/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_trips_app/lib/places/info_place.dart" beforeDir="false" afterPath="$PROJECT_DIR$/platzi_trips_app/lib/basic_course_platzi/places/info_place.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_trips_app/lib/places/place.dart" beforeDir="false" afterPath="$PROJECT_DIR$/platzi_trips_app/lib/basic_course_platzi/places/place.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_trips_app/lib/places/place_info.dart" beforeDir="false" afterPath="$PROJECT_DIR$/platzi_trips_app/lib/basic_course_platzi/places/place_info.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_trips_app/lib/places/places_list.dart" beforeDir="false" afterPath="$PROJECT_DIR$/platzi_trips_app/lib/basic_course_platzi/places/places_list.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_trips_app/lib/platzi_trips.dart" beforeDir="false" afterPath="$PROJECT_DIR$/platzi_trips_app/lib/platzi_trips.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_trips_app/lib/profile_trips.dart" beforeDir="false" afterPath="$PROJECT_DIR$/platzi_trips_app/lib/profile_trips.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/platzi_trips_app/lib/review.dart" beforeDir="false" afterPath="$PROJECT_DIR$/platzi_trips_app/lib/review.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platzi_trips_app/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/platzi_trips_app/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_trips_app/lib/review_list.dart" beforeDir="false" afterPath="$PROJECT_DIR$/platzi_trips_app/lib/review_list.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_trips_app/lib/search_trips.dart" beforeDir="false" afterPath="$PROJECT_DIR$/platzi_trips_app/lib/search_trips.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platzi_trips_app/lib/star_rating.dart" beforeDir="false" afterPath="$PROJECT_DIR$/platzi_trips_app/lib/basic_course_platzi/star_rating.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
